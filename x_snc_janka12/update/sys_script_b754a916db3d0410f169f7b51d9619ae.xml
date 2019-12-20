@@ -10,6 +10,7 @@
         <add_message>false</add_message>
         <advanced>false</advanced>
         <change_fields>false</change_fields>
+        <claim/>
         <client_callable>false</client_callable>
         <collection/>
         <condition/>
